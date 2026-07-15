@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(31, 24, 24);
+    text-align: left;
+    color: rgb(241, 235, 235);
+}
+
+img {
+    width: 200px;
+    float: center;
+}
+footer{
+    
+    background-color: blue;
+    border-radius: 10px;
+    
+    text-align: center;
+
+}
+.btn{
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    background-color:rgb(12, 12, 12);
+    margin-bottom: 30px;
+    text-align: center;
+}
+button{
+    justify-content: space-between;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    background-color:rgb(12, 12, 12);
+    margin-bottom: 30px;
+}
+nav a{
+    border-radius: 5px;
+    color: white;
+}
